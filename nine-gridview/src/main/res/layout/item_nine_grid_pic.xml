@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.heshiqi.widget.ninegrid.AspectRatioImageView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:custom="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/nine_gird_image"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    custom:aspectRatio="1.0"
+    android:scaleType="centerCrop"
+    custom:aspectRatioEnabled="true" />
